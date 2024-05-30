@@ -7,3 +7,5 @@ b = 4
 print(a)
 
 print(b)
+
+print(2)
